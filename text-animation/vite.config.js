@@ -1,4 +1,10 @@
+import { build } from "vite";
+
 export default {
     root: 'src/',
-    publicDir: '../static/'
+    publicDir: '../static/',
+    build: {
+        outDir: 'dist',
+        emptyOutDir: true
+    }
 }

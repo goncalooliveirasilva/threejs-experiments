@@ -4,7 +4,7 @@ export default {
     root: 'src/',
     publicDir: '../static/',
     build: {
-        outDir: 'dist',
+        outDir: '../dist',
         emptyOutDir: true
     }
 }

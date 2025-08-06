@@ -16,9 +16,9 @@ More coming soon...
 
 ## Tech Stack
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+  <img height="32" width="32" title="Javascript" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
   &nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/threedotjs/black/white" />
+  <img height="32" width="32" title="Three.js" src="https://cdn.simpleicons.org/threedotjs/black/white" />
 </div>
 
 

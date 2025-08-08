@@ -9,14 +9,16 @@ I'm building this to share my progress and what I learn along the way.
 ## Experiments
 | Name | Description | Live Demo |
 | ---- | ----------- | --------- |
-| [3D-text](./experiments/text-animation/) | A simple 3D text render | [View Demo](https://threejs-experiments-eight.vercel.app/) |
-| [particle-animations](./experiments/particle-animations/) | Some animations with particles | [View Demo](https://threejs-experiments-e8hs.vercel.app/) |
+| [3D-text](./experiments/text-animation/) | A simple 3D text render. | [View Demo](https://threejs-experiments-eight.vercel.app/) |
+| [particle-animations](./experiments/particle-animations/) | Some animations with particles. | [View Demo](https://threejs-experiments-e8hs.vercel.app/) |
+| [galaxy-creator](./experiments/galaxy-creator/) | Real-time 3D galaxy creator made with particles. | [View Demo]() |
+| [particle-field](./experiments/particle-field/) | Interactive particle field that reacts to your mouse movement. | [View Demo]() | 
 
 More coming soon...
 
 ## Tech Stack
 <div>
-  <img height="32" width="32" title="Javascript" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+  <img height="32" width="32" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
   &nbsp;
   <img height="32" width="32" title="Three.js" src="https://cdn.simpleicons.org/threedotjs/black/white" />
 </div>

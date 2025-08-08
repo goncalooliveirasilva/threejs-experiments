@@ -7,6 +7,7 @@ Each folder is a standalone idea, not a full app.
 I'm building this to share my progress and what I learn along the way.
 
 ## Experiments
+*Don't forget to check the controls gui ;)*
 | Name | Description | Live Demo |
 | ---- | ----------- | --------- |
 | [3D-text](./experiments/text-animation/) | A simple 3D text render. | [View Demo](https://threejs-experiments-eight.vercel.app/) |

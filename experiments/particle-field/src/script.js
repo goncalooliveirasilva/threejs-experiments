@@ -117,8 +117,7 @@ const mouse = new THREE.Vector2()
 
 window.addEventListener('mousemove', (event) => {
   mouse.x = event.clientX - size.width / 2
-  // y = 0 is on top
-  mouse.y = size.height / 2 - event.clientY
+  mouse.y = size.height / 2 - event.clientY // because y = 0 is on top
 })
 
 
@@ -132,7 +131,7 @@ const updatePositions = () => {
   for(let i = 0; i < debug.numberOfParticles; i++) {
     let j = i * 3
 
-    // Calculate squared distance from particle to mouse
+    // Calculate square distance from particle to mouse
     const dx = positions[j] - mouse.x
     const dy = positions[j + 1] - mouse.y
     const distanceSquared = dx * dx + dy * dy

@@ -45,7 +45,7 @@ window.addEventListener('resize', () => {
 const debug = {
   size: 6,
   numberOfParticles: 10000,
-  mouseRadius: 50,
+  mouseRadius: 100,
   moveDistance: 200,
   returnSpeed: 0.1,
   useRandomColors: true,

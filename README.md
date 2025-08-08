@@ -12,8 +12,8 @@ I'm building this to share my progress and what I learn along the way.
 | ---- | ----------- | --------- |
 | [3D-text](./experiments/text-animation/) | A simple 3D text render. | [View Demo](https://threejs-experiments-eight.vercel.app/) |
 | [particle-animations](./experiments/particle-animations/) | Some animations with particles. | [View Demo](https://threejs-experiments-e8hs.vercel.app/) |
-| [galaxy-creator](./experiments/galaxy-creator/) | Real-time 3D galaxy creator made with particles. | [View Demo]() |
-| [particle-field](./experiments/particle-field/) | Interactive particle field that reacts to your mouse movement. | [View Demo]() | 
+| [galaxy-creator](./experiments/galaxy-creator/) | Real-time 3D galaxy creator made with particles. | [View Demo](https://threejs-experiments-qu6r.vercel.app/) |
+| [particle-field](./experiments/particle-field/) | Interactive particle field that reacts to your mouse movement. | [View Demo](https://threejs-experiments-kbgu.vercel.app/) | 
 
 More coming soon...
 

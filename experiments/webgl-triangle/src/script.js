@@ -11,9 +11,9 @@ import GUI from 'lil-gui'
 
 // Debug GUI object
 const debug = {
-  topColor: '#ffff00',
-  leftColor: '#b400ff',
-  rightColor: '#1eff96',
+  topColor: '#ff0000',
+  leftColor: '#0000ff',
+  rightColor: '#00ff00',
 }
 
 const gui = new GUI()

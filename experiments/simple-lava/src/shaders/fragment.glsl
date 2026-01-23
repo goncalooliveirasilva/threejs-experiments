@@ -1,6 +1,5 @@
 precision mediump float;
 
-uniform float uTime;
 varying float vRandom;
 
 void main() {

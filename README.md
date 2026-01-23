@@ -7,32 +7,38 @@ Each folder is a standalone idea, not a full app.
 I'm building this to share my progress and what I learn along the way.
 
 ## Experiments
-*Don't forget to check the controls gui ;)*
+
+_Don't forget to check the controls gui ;)_
 | Name | Description | Live Demo |
 | ---- | ----------- | --------- |
 | [3D-text](./experiments/text-animation/src/script.js) | A simple 3D text render. | [View Demo](https://threejs-experiments-eight.vercel.app/) |
 | [particle-animations](./experiments/particle-animations/src/script.js) | Some animations with particles. | [View Demo](https://threejs-experiments-e8hs.vercel.app/) |
 | [galaxy-creator](./experiments/galaxy-creator/src/script.js) | Real-time 3D galaxy creator made with particles. | [View Demo](https://threejs-experiments-qu6r.vercel.app/) |
-| [particle-field](./experiments/particle-field/src/script.js) | Interactive particle field that reacts to your mouse movement. | [View Demo](https://threejs-experiments-kbgu.vercel.app/) | 
+| [particle-field](./experiments/particle-field/src/script.js) | Interactive particle field that reacts to your mouse movement. | [View Demo](https://threejs-experiments-kbgu.vercel.app/) |
 | [webgl-triangle](./experiments/webgl-triangle/src/) | The classic WebGL triangle. | [View Demo](https://threejs-experiments-webgl-triangle.vercel.app/) |
+| [simple-lava-shader](./experiments/simple-lava/src/) | Simple lava shader with glsl. | NA |
 
 More coming soon...
 
 ## Tech Stack
+
 <div>
   <img height="32" width="32" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
   &nbsp;
   <img height="32" width="32" title="Three.js" src="https://cdn.simpleicons.org/threedotjs/black/white" />
 </div>
 
-
 ## Run Locally
+
 1. Clone this repo
+
 ```bash
 git clone git@github.com:goncalooliveirasilva/threejs-experiments.git
 cd threejs-experiments/<experiment-name>
 ```
+
 2. Install dependencies and run
+
 ```bash
 npm install
 npm run dev
